@@ -1,0 +1,1 @@
+# seven_learn_kotlin_excersize
