@@ -10,17 +10,6 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.replace_fragment.databinding.FragmentHomeBinding
 
-//class HomeFragment : Fragment() {
-//
-//    override fun onCreateView(
-//        inflater: LayoutInflater, container: ViewGroup?,
-//        savedInstanceState: Bundle?
-//    ): View? {
-//        // Inflate the layout for this fragment
-//        return inflater.inflate(R.layout.fragment_home, container, false)
-//    }
-//}
-
 class HomeFragment : Fragment() {
 
     private var _binding: FragmentHomeBinding? = null
