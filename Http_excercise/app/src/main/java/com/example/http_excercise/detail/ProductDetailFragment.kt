@@ -20,7 +20,7 @@ class ProductDetailFragment : Fragment(R.layout.fragment_detail) {
     private val binding: FragmentDetailBinding
         get() = _binding!!
 
-    private val viewModel: ProductDetailViewModel by viewModels(factoryProducer = { ProductDetailViewModel.factory  })
+    private val viewModel: ProductDetailViewModel by viewModels( )
     private val args: ProductDetailFragmentArgs by navArgs()
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -46,9 +46,7 @@ class ProductDetailFragment : Fragment(R.layout.fragment_detail) {
                     binding.progressCircular.isVisible = it is ProductDetailUiState.Loading
 
                     if (it is ProductDetailUiState.ProductData) {
-                        showProductDetail(
-                            it
-                        )
+                        showProductDetail(it)
                     }
                 }
             }

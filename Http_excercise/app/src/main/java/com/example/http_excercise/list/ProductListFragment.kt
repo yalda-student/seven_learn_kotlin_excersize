@@ -10,7 +10,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import androidx.navigation.fragment.findNavController
 import com.example.http_excercise.R
-import com.example.http_excercise.data.network.response.ProductResponse
+import com.example.http_excercise.data.model.response.ProductResponse
 import com.example.http_excercise.databinding.FragmentListBinding
 import kotlinx.coroutines.launch
 
@@ -20,7 +20,7 @@ class ProductListFragment : Fragment(R.layout.fragment_list) {
     private val binding: FragmentListBinding
         get() = _binding!!
 
-    private val viewModel: ProductListViewModel by viewModels(factoryProducer = { ProductListViewModel.factory })
+    private val viewModel: ProductListViewModel by viewModels()
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
@@ -59,7 +59,7 @@ class ProductListFragment : Fragment(R.layout.fragment_list) {
         binding.progressCircular.isVisible = false
         binding.ivConnectionError.isVisible = false
         val adapter = ProductAdapter(coins) {
-            val action = ProductListFragmentDirections.actionCoinListFragmentToCoinDetailFragment(it)
+            val action = ProductListFragmentDirections.actionProductListFragmentToProductDetailFragment(it)
             findNavController().navigate(action)
         }
 

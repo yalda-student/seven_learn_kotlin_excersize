@@ -4,42 +4,42 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.http_excercise.data.network.response.ProductResponse
+import com.example.http_excercise.data.model.response.ProductResponse
 import com.example.http_excercise.databinding.ItemProductBinding
 
 
 class ProductAdapter(
-    private val coins: List<ProductResponse>,
-    private val onCoinClick: (String) -> Unit,
-) : RecyclerView.Adapter<ProductAdapter.CoinViewHolder>() {
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CoinViewHolder {
+    private val products: List<ProductResponse>,
+    private val onProductClick: (String) -> Unit,
+) : RecyclerView.Adapter<ProductAdapter.ProductViewHolder>() {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ProductViewHolder {
         val inflater = LayoutInflater.from(parent.context)
         val binding = ItemProductBinding.inflate(inflater, parent, false)
-        return CoinViewHolder(binding, onCoinClick)
+        return ProductViewHolder(binding)
     }
 
     override fun getItemCount(): Int {
-        return coins.size
+        return products.size
     }
 
-    override fun onBindViewHolder(holder: CoinViewHolder, position: Int) {
-        holder.bind(coins[position])
+    override fun onBindViewHolder(holder: ProductViewHolder, position: Int) {
+        holder.bind(products[position])
     }
 
-    inner class CoinViewHolder(
-        private val binding: ItemProductBinding,
-        onCoinClick: (String) -> Unit
+    inner class ProductViewHolder(
+        private val binding: ItemProductBinding
     ) :
         RecyclerView.ViewHolder(binding.root) {
 
-        fun bind(coin: ProductResponse) {
-            binding.productName.text = coin.title
-            binding.productPrice.text = coin.price.toString()
-            binding.productCategory.text = coin.category
-            Glide.with(binding.productImage.context).load(coin.thumbnail).into(binding.productImage)
+        fun bind(product: ProductResponse) {
+            binding.productName.text = product.title
+            binding.productPrice.text = product.price.toString()
+            binding.productCategory.text = product.category
+            Glide.with(binding.productImage.context).load(product.thumbnail)
+                .into(binding.productImage)
 
             binding.root.setOnClickListener {
-                onCoinClick(coin.id)
+                onProductClick(product.id)
             }
         }
 

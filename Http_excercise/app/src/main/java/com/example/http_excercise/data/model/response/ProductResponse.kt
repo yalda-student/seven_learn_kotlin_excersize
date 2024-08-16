@@ -1,4 +1,4 @@
-package com.example.http_excercise.data.network.response
+package com.example.http_excercise.data.model.response
 
 data class ProductResponse(
     val id: String,
