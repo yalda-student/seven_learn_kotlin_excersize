@@ -10,5 +10,5 @@ interface ApiService {
     suspend fun getProducts(): ProductList
 
     @GET("products/{id}")
-    suspend fun getProductById(@Path("id") id: String): ProductDetailResponse?
+    suspend fun getProductById(@Path("id") id: String): ProductDetailResponse
 }
