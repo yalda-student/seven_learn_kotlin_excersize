@@ -29,9 +29,9 @@ class ProductDetailViewModel(
 
     private val _uiState = MutableStateFlow<ProductDetailUiState>(ProductDetailUiState.Loading)
     val uiState = _uiState.asStateFlow()
-    fun fetchProductData(coinId: String) {
+    fun fetchProductData(productId: String) {
         viewModelScope.launch {
-            val response = repository.getCoinDetail(coinId)
+            val response = repository.getProductDetail(productId)
             val state = ProductDetailUiState.ProductData(
                 name = response.title,
                 rating = response.rating.toString(),

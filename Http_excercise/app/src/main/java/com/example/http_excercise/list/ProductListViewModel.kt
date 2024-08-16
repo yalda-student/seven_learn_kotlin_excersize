@@ -35,16 +35,16 @@ class ProductListViewModel(
     val uiState = _uiState.asStateFlow()
 
     init {
-        fetchCoins()
+        fetchProducts()
     }
 
-    private fun fetchCoins() {
+    private fun fetchProducts() {
         viewModelScope.launch {
             withContext(Dispatchers.IO) {
                 try {
-                    val coins = repository.getProducts()
+                    val products = repository.getProducts()
 
-                    _uiState.value = ProductListUiState.Success(coins.products)
+                    _uiState.value = ProductListUiState.Success(products.products)
                 } catch (e: Exception) {
                     println("e: $e")
                     _uiState.value = ProductListUiState.Error

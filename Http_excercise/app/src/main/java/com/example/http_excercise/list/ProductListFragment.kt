@@ -44,7 +44,7 @@ class ProductListFragment : Fragment(R.layout.fragment_list) {
                             binding.ivConnectionError.isVisible = false
                         }
 
-                        is ProductListUiState.Success -> setUpRecyclerView(coins = it.products)
+                        is ProductListUiState.Success -> setUpRecyclerView(product = it.products)
                         ProductListUiState.Error -> {
                             binding.progressCircular.isVisible = false
                             binding.ivConnectionError.isVisible = true
@@ -55,10 +55,10 @@ class ProductListFragment : Fragment(R.layout.fragment_list) {
         }
     }
 
-    private fun setUpRecyclerView(coins: List<ProductResponse>) {
+    private fun setUpRecyclerView(product: List<ProductResponse>) {
         binding.progressCircular.isVisible = false
         binding.ivConnectionError.isVisible = false
-        val adapter = ProductAdapter(coins) {
+        val adapter = ProductAdapter(product) {
             val action = ProductListFragmentDirections.actionCoinListFragmentToCoinDetailFragment(it)
             findNavController().navigate(action)
         }
