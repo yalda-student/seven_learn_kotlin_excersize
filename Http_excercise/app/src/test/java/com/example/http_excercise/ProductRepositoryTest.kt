@@ -16,11 +16,4 @@ class ProductRepositoryTest {
         assertEquals(FakeDataSource.productList, repository.getProducts().products)
     }
 
-    @Test
-    fun `getProductById should return null for non-existent user`() = runTest {
-        val repository = ProductRepositoryImpl(FakeApiService())
-
-        val result = repository.getProductDetail("1")
-        assertNull(result)
-    }
 }

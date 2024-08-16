@@ -2,24 +2,16 @@ package com.example.http_excercise.list
 
 import com.example.http_excercise.fake.FakeDataSource
 import com.example.http_excercise.fake.FakeRepository
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.ExperimentalCoroutinesApi
-import kotlinx.coroutines.test.UnconfinedTestDispatcher
-import kotlinx.coroutines.test.resetMain
-import kotlinx.coroutines.test.setMain
-import org.junit.After
+import com.example.http_excercise.rule.TestDispatcherRule
 import org.junit.Assert.assertEquals
-import org.junit.Before
+import org.junit.Rule
 import org.junit.Test
 
-@OptIn(ExperimentalCoroutinesApi::class)
 
 class ProductListViewModelTest {
 
-    @Before
-    fun setup() {
-        Dispatchers.setMain(UnconfinedTestDispatcher())
-    }
+    @get:Rule
+    val testDispatcher = TestDispatcherRule()
 
     @Test
     fun `getProductList verify ui state success`() {
@@ -30,8 +22,5 @@ class ProductListViewModelTest {
         )
     }
 
-    @After
-    fun release() {
-        Dispatchers.resetMain()
-    }
+
 }

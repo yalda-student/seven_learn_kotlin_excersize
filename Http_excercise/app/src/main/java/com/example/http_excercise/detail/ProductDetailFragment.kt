@@ -65,7 +65,7 @@ class ProductDetailFragment : Fragment(R.layout.fragment_detail) {
         binding.productCategory.text = product.category
         binding.productBrand.text = product.brand
         binding.productPrice.text = product.price.toString()
-        binding.productRating.text = product.rating
+        binding.productRating.text = product.rating.toString()
         Glide.with(this).load(product.thumbnail).into(binding.productThumbnail)
 
     }

@@ -1,5 +1,6 @@
 package com.example.http_excercise.fake
 
+import com.example.http_excercise.data.network.response.ProductDetailResponse
 import com.example.http_excercise.data.network.response.ProductResponse
 
 object FakeDataSource {
@@ -26,4 +27,14 @@ object FakeDataSource {
             category = "beauty"
         ),
     )
+
+    val productDetail = ProductDetailResponse(
+        id = 1,
+        title = "Essence Mascara Lash Princess",
+        thumbnail = "",
+        price = 9.99,
+        category = "beauty",
+        description = "",
+        brand = "Essence", rating = 2.5
+    );
 }

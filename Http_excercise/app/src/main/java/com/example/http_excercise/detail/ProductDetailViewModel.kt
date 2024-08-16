@@ -34,7 +34,7 @@ class ProductDetailViewModel(
             val response = repository.getProductDetail(productId)
             val state = ProductDetailUiState.ProductData(
                 name = response.title,
-                rating = response.rating.toString(),
+                rating = response.rating,
                 description = response.description,
                 brand = response.brand,
                 category = response.category,
@@ -53,7 +53,7 @@ sealed interface ProductDetailUiState {
     data class ProductData(
         val id: Int,
         val name: String,
-        val rating: String,
+        val rating: Double,
         val description: String,
         val thumbnail: String,
         val brand: String,
