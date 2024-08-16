@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.testfake.UserRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-08-16T08:48:34" hostname="Yaldas-MacBook-Pro.local" time="0.071">
+  <properties/>
+  <testcase name="deleteUser should remove the user" classname="com.example.testfake.UserRepositoryTest" time="0.066"/>
+  <testcase name="getUserById should return correct user" classname="com.example.testfake.UserRepositoryTest" time="0.001"/>
+  <testcase name="getAllUsers should return all added users" classname="com.example.testfake.UserRepositoryTest" time="0.001"/>
+  <testcase name="getUserById should return null for non-existent user" classname="com.example.testfake.UserRepositoryTest" time="0.001"/>
+  <testcase name="addUser should not add a user with duplicate id" classname="com.example.testfake.UserRepositoryTest" time="0.0"/>
+  <testcase name="addUser should add a user successfully" classname="com.example.testfake.UserRepositoryTest" time="0.001"/>
+  <testcase name="deleteUser should return false for non-existent user" classname="com.example.testfake.UserRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
