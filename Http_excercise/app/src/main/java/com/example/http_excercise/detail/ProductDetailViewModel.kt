@@ -31,7 +31,7 @@ class ProductDetailViewModel(
     val uiState = _uiState.asStateFlow()
     fun fetchProductData(coinId: String) {
         viewModelScope.launch {
-            val response = repository.getCoinDetail(coinId)
+            val response = repository.getProductDetail(coinId)
             val state = ProductDetailUiState.ProductData(
                 name = response.title,
                 rating = response.rating.toString(),
