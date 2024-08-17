@@ -2,10 +2,8 @@ package com.example.replace_fragment
 
 
 import android.os.Bundle
-import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
-import androidx.navigation.ui.setupActionBarWithNavController
 import com.example.replace_fragment.databinding.ActivityMainBinding
 
 
