@@ -1,0 +1,361 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.5.1] /Users/yalda/.gradle/caches/transforms-4/244fb939a344558e8d843537f78b5d89/transformed/viewbinding-8.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] /Users/yalda/.gradle/caches/transforms-4/a0cccd7d5f47f64e477933ac3c9f1f12/transformed/navigation-common-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/fa99825873e5b3ab3df1c583f6f87f82/transformed/navigation-common-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] /Users/yalda/.gradle/caches/transforms-4/2b33bcd11da6f39c12bd7504dfbc7c51/transformed/navigation-runtime-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/cab3f23420e9e719b537557f692e7515/transformed/navigation-runtime-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] /Users/yalda/.gradle/caches/transforms-4/b063d6f80c50bd87df52174a39a5a7af/transformed/navigation-fragment-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/e6b9abcf952d5a16fa1d05b67ff91e9a/transformed/navigation-fragment-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/e4fcefb39428dd508b5d1c6b9dd37372/transformed/navigation-ui-ktx-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] /Users/yalda/.gradle/caches/transforms-4/ced7fc0e28545abd543a8c3d868894f6/transformed/navigation-ui-2.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.10.0] /Users/yalda/.gradle/caches/transforms-4/9f140263e54c11213e1369d4a93aea84/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yalda/.gradle/caches/transforms-4/40bb6db89198aba75cb84e412bf0bd12/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yalda/.gradle/caches/transforms-4/858fdc9fad777fee9b800b91a2fb39e9/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yalda/.gradle/caches/transforms-4/99d86afb342b4963d803157b6436084a/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yalda/.gradle/caches/transforms-4/090ae0e3329ff15aeae3c72d44aa9e58/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] /Users/yalda/.gradle/caches/transforms-4/c3bb7141e4d275cc93a699fc7f729830/transformed/fragment-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.0] /Users/yalda/.gradle/caches/transforms-4/c6b48aadaec8738aa87b761031ea1ba2/transformed/fragment-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/yalda/.gradle/caches/transforms-4/27b9e2e8087babac248977de2e5dfd6b/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/yalda/.gradle/caches/transforms-4/a28c25c6cc27b6c017859192f530ca56/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/yalda/.gradle/caches/transforms-4/fbf90acd4829edd428adb311231557ee/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yalda/.gradle/caches/transforms-4/ffe30e04c62cd7e20806cfb5468b798d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yalda/.gradle/caches/transforms-4/4f3d50ab9d918c6c8183aaf5bbaf0740/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yalda/.gradle/caches/transforms-4/53ff7efb625a4089b7bf6186d5a4e4e3/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yalda/.gradle/caches/transforms-4/bca142c2c1901a292493e07962549f81/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yalda/.gradle/caches/transforms-4/b2134044bc577ca48185fedf634bd4de/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yalda/.gradle/caches/transforms-4/5ddd177ef9ccb9da18e4e6afeb08f636/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yalda/.gradle/caches/transforms-4/cfe78dd52edc167913305491c2563227/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yalda/.gradle/caches/transforms-4/28dfc601ad886968f8cf8e10ba7a435c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yalda/.gradle/caches/transforms-4/9d60822a3307de9c6dc4caf7b8024ea7/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/yalda/.gradle/caches/transforms-4/27647346e356c70d0b5cc69bc33874f7/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yalda/.gradle/caches/transforms-4/3d0a5c49e4a645a7d9d42b7dff36a567/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/yalda/.gradle/caches/transforms-4/1ba60523b803914166bd867c1795b3df/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/yalda/.gradle/caches/transforms-4/054e0e8a21ad3e5972124c1f37f49b22/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yalda/.gradle/caches/transforms-4/de3b90a6216164912a6714d344a3d3af/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yalda/.gradle/caches/transforms-4/fddc31f131cea9701f41f1987ce2d805/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/yalda/.gradle/caches/transforms-4/f9c68ec99e245954882e88a4850bdd7c/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/e8c41ba05cf65642678125257f5eb7d0/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/5218882a99e78d3798a387e445a81140/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/2d854ae030bbfa161a1df26d4d9ccb3d/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/yalda/.gradle/caches/transforms-4/3bf8a2b7456402a3876c99ccaa9e0e3c/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/yalda/.gradle/caches/transforms-4/e61c332b152b8518bf281cdb686458e2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/yalda/.gradle/caches/transforms-4/bf38b0c77f3abac3b45a0ba5f1e0e2b2/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/yalda/.gradle/caches/transforms-4/5a345e3f90dc38042fa03f84d581a178/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yalda/.gradle/caches/transforms-4/c511b11fa7bbaabdc0274133106ae4ae/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yalda/.gradle/caches/transforms-4/aad26d4f049c6dfa541ea107c62e61fe/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yalda/.gradle/caches/transforms-4/f05afcb09939d47f253b8a3b10b225f0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yalda/.gradle/caches/transforms-4/1ee76ddf336e9ee5f2f439c730197542/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yalda/.gradle/caches/transforms-4/4ae31e7d8688f6278d9047387305d4a4/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yalda/.gradle/caches/transforms-4/aaefa1d3e9a51a8dd06f6b7018e82759/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yalda/.gradle/caches/transforms-4/7fa1bfd7d8d8c95c256b105798403a30/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yalda/.gradle/caches/transforms-4/8ff148d02790971fcb08a8cc2ed34e18/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yalda/.gradle/caches/transforms-4/495f0f90dac936fe910ca22e27f95498/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/yalda/.gradle/caches/transforms-4/8221fc0e0dc778396f06c443490b2bf2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.10.0] /Users/yalda/.gradle/caches/transforms-4/9f140263e54c11213e1369d4a93aea84/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /Users/yalda/.gradle/caches/transforms-4/9f140263e54c11213e1369d4a93aea84/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yalda/.gradle/caches/transforms-4/40bb6db89198aba75cb84e412bf0bd12/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yalda/.gradle/caches/transforms-4/40bb6db89198aba75cb84e412bf0bd12/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yalda/.gradle/caches/transforms-4/1ee76ddf336e9ee5f2f439c730197542/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yalda/.gradle/caches/transforms-4/1ee76ddf336e9ee5f2f439c730197542/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:13:9-66
+	android:dataExtractionRules
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.coroutine_exception_handling.MainActivity
+ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:exported
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:18:13-70
+	android:name
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.5.1] /Users/yalda/.gradle/caches/transforms-4/244fb939a344558e8d843537f78b5d89/transformed/viewbinding-8.5.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.1] /Users/yalda/.gradle/caches/transforms-4/244fb939a344558e8d843537f78b5d89/transformed/viewbinding-8.5.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] /Users/yalda/.gradle/caches/transforms-4/a0cccd7d5f47f64e477933ac3c9f1f12/transformed/navigation-common-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] /Users/yalda/.gradle/caches/transforms-4/a0cccd7d5f47f64e477933ac3c9f1f12/transformed/navigation-common-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/fa99825873e5b3ab3df1c583f6f87f82/transformed/navigation-common-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/fa99825873e5b3ab3df1c583f6f87f82/transformed/navigation-common-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] /Users/yalda/.gradle/caches/transforms-4/2b33bcd11da6f39c12bd7504dfbc7c51/transformed/navigation-runtime-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] /Users/yalda/.gradle/caches/transforms-4/2b33bcd11da6f39c12bd7504dfbc7c51/transformed/navigation-runtime-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/cab3f23420e9e719b537557f692e7515/transformed/navigation-runtime-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/cab3f23420e9e719b537557f692e7515/transformed/navigation-runtime-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] /Users/yalda/.gradle/caches/transforms-4/b063d6f80c50bd87df52174a39a5a7af/transformed/navigation-fragment-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] /Users/yalda/.gradle/caches/transforms-4/b063d6f80c50bd87df52174a39a5a7af/transformed/navigation-fragment-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/e6b9abcf952d5a16fa1d05b67ff91e9a/transformed/navigation-fragment-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/e6b9abcf952d5a16fa1d05b67ff91e9a/transformed/navigation-fragment-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/e4fcefb39428dd508b5d1c6b9dd37372/transformed/navigation-ui-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] /Users/yalda/.gradle/caches/transforms-4/e4fcefb39428dd508b5d1c6b9dd37372/transformed/navigation-ui-ktx-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] /Users/yalda/.gradle/caches/transforms-4/ced7fc0e28545abd543a8c3d868894f6/transformed/navigation-ui-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] /Users/yalda/.gradle/caches/transforms-4/ced7fc0e28545abd543a8c3d868894f6/transformed/navigation-ui-2.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/yalda/.gradle/caches/transforms-4/9f140263e54c11213e1369d4a93aea84/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /Users/yalda/.gradle/caches/transforms-4/9f140263e54c11213e1369d4a93aea84/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yalda/.gradle/caches/transforms-4/40bb6db89198aba75cb84e412bf0bd12/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/yalda/.gradle/caches/transforms-4/40bb6db89198aba75cb84e412bf0bd12/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yalda/.gradle/caches/transforms-4/858fdc9fad777fee9b800b91a2fb39e9/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yalda/.gradle/caches/transforms-4/858fdc9fad777fee9b800b91a2fb39e9/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yalda/.gradle/caches/transforms-4/99d86afb342b4963d803157b6436084a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yalda/.gradle/caches/transforms-4/99d86afb342b4963d803157b6436084a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yalda/.gradle/caches/transforms-4/090ae0e3329ff15aeae3c72d44aa9e58/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yalda/.gradle/caches/transforms-4/090ae0e3329ff15aeae3c72d44aa9e58/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] /Users/yalda/.gradle/caches/transforms-4/c3bb7141e4d275cc93a699fc7f729830/transformed/fragment-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] /Users/yalda/.gradle/caches/transforms-4/c3bb7141e4d275cc93a699fc7f729830/transformed/fragment-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] /Users/yalda/.gradle/caches/transforms-4/c6b48aadaec8738aa87b761031ea1ba2/transformed/fragment-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] /Users/yalda/.gradle/caches/transforms-4/c6b48aadaec8738aa87b761031ea1ba2/transformed/fragment-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/yalda/.gradle/caches/transforms-4/27b9e2e8087babac248977de2e5dfd6b/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /Users/yalda/.gradle/caches/transforms-4/27b9e2e8087babac248977de2e5dfd6b/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/yalda/.gradle/caches/transforms-4/a28c25c6cc27b6c017859192f530ca56/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/yalda/.gradle/caches/transforms-4/a28c25c6cc27b6c017859192f530ca56/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/yalda/.gradle/caches/transforms-4/fbf90acd4829edd428adb311231557ee/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/yalda/.gradle/caches/transforms-4/fbf90acd4829edd428adb311231557ee/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yalda/.gradle/caches/transforms-4/ffe30e04c62cd7e20806cfb5468b798d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yalda/.gradle/caches/transforms-4/ffe30e04c62cd7e20806cfb5468b798d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yalda/.gradle/caches/transforms-4/4f3d50ab9d918c6c8183aaf5bbaf0740/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yalda/.gradle/caches/transforms-4/4f3d50ab9d918c6c8183aaf5bbaf0740/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yalda/.gradle/caches/transforms-4/53ff7efb625a4089b7bf6186d5a4e4e3/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yalda/.gradle/caches/transforms-4/53ff7efb625a4089b7bf6186d5a4e4e3/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yalda/.gradle/caches/transforms-4/bca142c2c1901a292493e07962549f81/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yalda/.gradle/caches/transforms-4/bca142c2c1901a292493e07962549f81/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yalda/.gradle/caches/transforms-4/b2134044bc577ca48185fedf634bd4de/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yalda/.gradle/caches/transforms-4/b2134044bc577ca48185fedf634bd4de/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yalda/.gradle/caches/transforms-4/5ddd177ef9ccb9da18e4e6afeb08f636/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yalda/.gradle/caches/transforms-4/5ddd177ef9ccb9da18e4e6afeb08f636/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yalda/.gradle/caches/transforms-4/cfe78dd52edc167913305491c2563227/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yalda/.gradle/caches/transforms-4/cfe78dd52edc167913305491c2563227/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yalda/.gradle/caches/transforms-4/28dfc601ad886968f8cf8e10ba7a435c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yalda/.gradle/caches/transforms-4/28dfc601ad886968f8cf8e10ba7a435c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yalda/.gradle/caches/transforms-4/9d60822a3307de9c6dc4caf7b8024ea7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yalda/.gradle/caches/transforms-4/9d60822a3307de9c6dc4caf7b8024ea7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/yalda/.gradle/caches/transforms-4/27647346e356c70d0b5cc69bc33874f7/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/yalda/.gradle/caches/transforms-4/27647346e356c70d0b5cc69bc33874f7/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yalda/.gradle/caches/transforms-4/3d0a5c49e4a645a7d9d42b7dff36a567/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yalda/.gradle/caches/transforms-4/3d0a5c49e4a645a7d9d42b7dff36a567/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/yalda/.gradle/caches/transforms-4/1ba60523b803914166bd867c1795b3df/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/yalda/.gradle/caches/transforms-4/1ba60523b803914166bd867c1795b3df/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/yalda/.gradle/caches/transforms-4/054e0e8a21ad3e5972124c1f37f49b22/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/yalda/.gradle/caches/transforms-4/054e0e8a21ad3e5972124c1f37f49b22/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yalda/.gradle/caches/transforms-4/de3b90a6216164912a6714d344a3d3af/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/yalda/.gradle/caches/transforms-4/de3b90a6216164912a6714d344a3d3af/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yalda/.gradle/caches/transforms-4/fddc31f131cea9701f41f1987ce2d805/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yalda/.gradle/caches/transforms-4/fddc31f131cea9701f41f1987ce2d805/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/yalda/.gradle/caches/transforms-4/f9c68ec99e245954882e88a4850bdd7c/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/yalda/.gradle/caches/transforms-4/f9c68ec99e245954882e88a4850bdd7c/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/e8c41ba05cf65642678125257f5eb7d0/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/e8c41ba05cf65642678125257f5eb7d0/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/5218882a99e78d3798a387e445a81140/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/5218882a99e78d3798a387e445a81140/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/2d854ae030bbfa161a1df26d4d9ccb3d/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/yalda/.gradle/caches/transforms-4/2d854ae030bbfa161a1df26d4d9ccb3d/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/yalda/.gradle/caches/transforms-4/3bf8a2b7456402a3876c99ccaa9e0e3c/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/yalda/.gradle/caches/transforms-4/3bf8a2b7456402a3876c99ccaa9e0e3c/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/yalda/.gradle/caches/transforms-4/e61c332b152b8518bf281cdb686458e2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/yalda/.gradle/caches/transforms-4/e61c332b152b8518bf281cdb686458e2/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/yalda/.gradle/caches/transforms-4/bf38b0c77f3abac3b45a0ba5f1e0e2b2/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/yalda/.gradle/caches/transforms-4/bf38b0c77f3abac3b45a0ba5f1e0e2b2/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/yalda/.gradle/caches/transforms-4/5a345e3f90dc38042fa03f84d581a178/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/yalda/.gradle/caches/transforms-4/5a345e3f90dc38042fa03f84d581a178/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yalda/.gradle/caches/transforms-4/c511b11fa7bbaabdc0274133106ae4ae/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yalda/.gradle/caches/transforms-4/c511b11fa7bbaabdc0274133106ae4ae/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yalda/.gradle/caches/transforms-4/aad26d4f049c6dfa541ea107c62e61fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yalda/.gradle/caches/transforms-4/aad26d4f049c6dfa541ea107c62e61fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yalda/.gradle/caches/transforms-4/f05afcb09939d47f253b8a3b10b225f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yalda/.gradle/caches/transforms-4/f05afcb09939d47f253b8a3b10b225f0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yalda/.gradle/caches/transforms-4/1ee76ddf336e9ee5f2f439c730197542/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yalda/.gradle/caches/transforms-4/1ee76ddf336e9ee5f2f439c730197542/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yalda/.gradle/caches/transforms-4/4ae31e7d8688f6278d9047387305d4a4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yalda/.gradle/caches/transforms-4/4ae31e7d8688f6278d9047387305d4a4/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yalda/.gradle/caches/transforms-4/aaefa1d3e9a51a8dd06f6b7018e82759/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yalda/.gradle/caches/transforms-4/aaefa1d3e9a51a8dd06f6b7018e82759/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yalda/.gradle/caches/transforms-4/7fa1bfd7d8d8c95c256b105798403a30/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yalda/.gradle/caches/transforms-4/7fa1bfd7d8d8c95c256b105798403a30/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yalda/.gradle/caches/transforms-4/8ff148d02790971fcb08a8cc2ed34e18/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yalda/.gradle/caches/transforms-4/8ff148d02790971fcb08a8cc2ed34e18/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yalda/.gradle/caches/transforms-4/495f0f90dac936fe910ca22e27f95498/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yalda/.gradle/caches/transforms-4/495f0f90dac936fe910ca22e27f95498/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/yalda/.gradle/caches/transforms-4/8221fc0e0dc778396f06c443490b2bf2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/yalda/.gradle/caches/transforms-4/8221fc0e0dc778396f06c443490b2bf2/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yalda/7learn/Answers/Coroutine_exception_handling2/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yalda/.gradle/caches/transforms-4/293686bc1f15d3b365c461a76f6de39c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yalda/.gradle/caches/transforms-4/1fbeea6aaebc96604662b571846df7c8/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/yalda/.gradle/caches/transforms-4/ee47e48582d17b3b653f805214ea76c3/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.coroutine_exception_handling.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.coroutine_exception_handling.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/yalda/.gradle/caches/transforms-4/b7ddd6d650265c44228d991478a8825a/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/yalda/.gradle/caches/transforms-4/9e0e7129c680041ec9c7c31f73dcc4c4/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yalda/.gradle/caches/transforms-4/850b4e1ab0d0f9f191bd61a823451ad8/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">Product List</string>
+    <string name="coinDetail_name">Name: %1$s</string>
+    <string name="coinDetail_symbol">Symbol: %1$s</string>
+    <string name="coinItem_nameSymbol">%1$s (%2$s)</string>
+    <style name="Base.Theme.Http_excercise" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Http_excercise" parent="Base.Theme.Http_excercise"/>
+</resources>

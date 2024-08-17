@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-mergeDebugResources-48:/layout/item_coin_detail_team_member.xml",
+        "source": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-main-51:/layout/item_coin_detail_team_member.xml"
+    },
+    {
+        "merged": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-mergeDebugResources-48:/layout/item_product.xml",
+        "source": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-main-51:/layout/item_product.xml"
+    },
+    {
+        "merged": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-mergeDebugResources-48:/layout/fragment_detail.xml",
+        "source": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-main-51:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-mergeDebugResources-48:/layout/fragment_list.xml",
+        "source": "/Users/yalda/.gradle/daemon/8.7/com.example.http_excercise.app-main-51:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.example.http_excercise.app-mergeDebugResources-48:/layout/fragment_detail.xml",
+        "source": "com.example.http_excercise.app-main-51:/layout/fragment_detail.xml"
+    }
+]
